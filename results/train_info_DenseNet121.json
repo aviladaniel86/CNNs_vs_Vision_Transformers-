@@ -1,0 +1,10 @@
+{
+  "model": "DenseNet121",
+  "params_M": 6.954881,
+  "epochs_trained": 15,
+  "best_epoch": 14,
+  "best_val_auc": 0.9167733192443848,
+  "train_time_min": 78.83378572066626,
+  "mean_epoch_time_min": 5.183905207051171,
+  "peak_gpu_mem_gb": 1.155301570892334
+}

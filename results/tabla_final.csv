@@ -1,0 +1,4 @@
+modelo,AUC test,F1 test,Accuracy test,Sensibilidad,Especificidad,Parámetros (M),Min / época,Tiempo total (min),Memoria GPU (GB),Época 95% mejor AUC,Mejor época,Épocas entrenadas
+ResNet-50,0.8897,0.2191,0.9549,0.352,0.966,23.5,3.8,59.1,1.1,1,14,15
+DenseNet-121,0.9217,0.231,0.9525,0.398,0.963,7.0,5.2,78.8,1.16,3,14,15
+ViT-B/16,0.9201,0.329,0.9684,0.432,0.978,85.8,10.9,120.7,2.58,1,6,11

@@ -1,0 +1,10 @@
+{
+  "model": "ResNet50",
+  "params_M": 23.510081,
+  "epochs_trained": 15,
+  "best_epoch": 14,
+  "best_val_auc": 0.9124569892883301,
+  "train_time_min": 59.05516016085942,
+  "mean_epoch_time_min": 3.8203312298986645,
+  "peak_gpu_mem_gb": 1.0997343063354492
+}
