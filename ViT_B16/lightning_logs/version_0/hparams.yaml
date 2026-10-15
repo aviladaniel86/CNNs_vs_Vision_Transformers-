@@ -1,9 +1,0 @@
-model_hparams:
-  num_classes: 1
-  pretrained: true
-model_name: ViT_B16
-optimizer_hparams:
-  lr: 2.0e-05
-  weight_decay: 0.0001
-optimizer_name: Adam
-pos_weight: 55.65594059405941
