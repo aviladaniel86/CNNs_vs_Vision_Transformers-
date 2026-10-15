@@ -1,0 +1,14 @@
+torch==2.14.0
+torchvision==0.29.0
+pytorch-lightning==2.6.6
+numpy==2.5.2
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+pillow==12.3.0
+tqdm==4.70.1
+tensorboard==2.21.0
+tabulate==0.10.0
+ipywidgets==8.1.9
